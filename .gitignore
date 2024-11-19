@@ -1,0 +1,11 @@
+# Ignored files
+.DS_Store
+.un~
+.gitignore~
+.gitignore.un~
+temp/*
+nbproject/*
+bin/
+include/
+lib/
+pyvenv.cfg
